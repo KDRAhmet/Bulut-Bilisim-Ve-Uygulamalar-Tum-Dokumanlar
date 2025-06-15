@@ -1,0 +1,8 @@
+Bu projelerdeki görevim, projelerin bulut ortamlarına yüklenmesini gerçekleştirmekti.
+
+- Proje 1 ve Proje 4'ün yükleme işlemleri Amazon AWS üzerinde yapılmıştır.
+- Proje 2 ve Proje 3'ün yükleme işlemleri Google Cloud üzerinde gerçekleştirilmiştir.
+
+Microsoft Azure üzerinde yükleme işlemi planlanmış ancak yüksek ücret politikaları nedeniyle kullanılmamıştır.
+
+Her bir projenin kaynak kodları ve bulut entegrasyonları tamamlanmıştır.
